@@ -1,0 +1,2 @@
+# -E-commerce-Sales-Customer-Behavior-Analysis
+This repository showcases EDA on an E-Commerce dataset. Derived a clear problem statement, applied data-driven methodologies to address it. Utilized Python, Pandas, Matplotlib, and Seaborn for data manipulation, visualization, and analysis. Derived actionable insights &amp; presented findings through visualizations to support business decision-making.
